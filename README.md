@@ -11,6 +11,7 @@ This is a simple contact directory application that allows users to add and remo
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Project Screenshot](#project-screenshot)
 
 ## Installation
 
@@ -112,3 +113,8 @@ For inquiries or collaboration opportunities, please feel free to reach out to *
 
 - **Email:** [sjetnik@gmail.com](mailto:sjetnik@gmail.com)
 - **GitHub Profile:** [Jetnik Syla](https://github.com/JetnikSyla)
+
+
+## Project Screenshot
+
+![Project Sc](client/src/images/card.html.png)
